@@ -18,7 +18,8 @@ PostgreSQL (v12.x or later)
 Setup
 1. Clone the repository:
 
-git clone https://github.com/yourusername/note-app.git
+git clone  https://github.com/Ayushikhare431/note-app.git
+git checkout develop
 
 2. Navigate to the project directory:
 cd note-app
