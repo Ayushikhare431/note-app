@@ -1,0 +1,16 @@
+{
+    "collectCoverage": true,
+    "testEnvironment": "node",
+    "collectCoverageFrom": [
+      "**/*.js",
+      "!**/node_modules/**",
+      "!**/coverage/**",
+      "!**setup.jest.js**",
+      "!**/mocks/**",
+      "!**/controllers/**",
+      "!**/routers/**"
+    ],
+    "verbose": true
+   
+  }
+  
